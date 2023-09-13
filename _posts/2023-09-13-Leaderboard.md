@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Top 10 Riders CW37
+title: Weekly Leaderboard CW37/2023
 subtitle: And the winner is...
 cover-img: /assets/img/path.png
 thumbnail-img: /assets/img/trophy.png
