@@ -2,9 +2,9 @@
 layout: post
 title: Weekly Leaderboard CW37/2023
 subtitle: And the winner is...
-cover-img: /assets/img/path.png
+cover-img: /assets/img/path3.png
 thumbnail-img: /assets/img/trophy.png
-share-img: /assets/img/path.png
+share-img: /assets/img/path3.png
 tags: [leaderboard]
 ---
 Hello, cycling enthusiasts! Welcome to week 37 of 2023. It's time to take a look at our live leaderboard and see who's leading the pack in the Normalized Cycling League (NLC). 
