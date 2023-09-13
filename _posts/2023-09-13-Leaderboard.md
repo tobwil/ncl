@@ -7,8 +7,6 @@ thumbnail-img: /assets/img/trophy.png
 share-img: /assets/img/path.png
 tags: [leaderboard]
 ---
-# CW37/2023 Normalized Cycling League (NLC) Leaderboard
-
 Hello, cycling enthusiasts! Welcome to week 37 of 2023. It's time to take a look at our live leaderboard and see who's leading the pack in the Normalized Cycling League (NLC). 
 
 ## What is NLC?
