@@ -21,6 +21,7 @@ author: Tobias Wilhelm
 
 navbar-links:
   About NLC: "aboutme"
+  Submit Activity: "submit"
 
 ################
 # --- Logo --- #
