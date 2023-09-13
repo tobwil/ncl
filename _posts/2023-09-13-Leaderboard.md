@@ -18,11 +18,11 @@ Each week, you can input your ride details - distance, elevation, and time. Our 
 
 Embedded below is the live leaderboard for week 37. This interactive diagram presents real-time data, allowing you to see how you stack up against other riders in the league.
 
-# Overview all Activities
+### Overview all Activities
 *Click the image to be forwarded to the Google Sheets where all the data is stored*
 [![Table](https://docs.google.com/spreadsheets/d/e/2PACX-1vSJAkc_IEX3gGWW5n11eII52MLgt59waoR7HDFAmNVJzGhQ25fx_efC2YE-r5E5kkR5omroKgvgjUNc/pubchart?oid=1693928308&amp;format=image)](https://docs.google.com/spreadsheets/d/1PNltbpk8YwRiZxv1oGSOsF_eJiTJ4ZqIBhjPVh91qa8/edit?usp=sharing)
 
-# Best Result by Bike Category
+#### Best Result by Bike Category
 ![Diagram](https://docs.google.com/spreadsheets/d/e/2PACX-1vSJAkc_IEX3gGWW5n11eII52MLgt59waoR7HDFAmNVJzGhQ25fx_efC2YE-r5E5kkR5omroKgvgjUNc/pubchart?oid=356550351&amp;format=image)
 
 ## Learn and Improve
