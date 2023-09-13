@@ -28,6 +28,6 @@ Embedded below is the live leaderboard for week 37. This interactive diagram pre
 
 ## Learn and Improve
 With NLC, you can appreciate the nuances of your rides and see how even the smallest changes can influence your ranking. It adds an element of friendly competition, pushing you to strive for improvement while enjoying your cycling journey.
-So, gear up, hit the road, and explore the world of cycling with the Normalized Cycling League tool. Log your rides, watch your ranking in the weekly table, and discover how every ride counts in its unique way. It’s not about winning, it’s about understanding and appreciating your individual performance.
-Enjoy your ride and let the Normalized Cycling League tool enhance your cycling experience. See you on the road! code for embedding diagram goes here.
+So, gear up, hit the road, and explore the world of cycling with the Normalized Cycling League. Log your rides, watch your ranking in the weekly table, and discover how every ride counts in its unique way. It’s not about winning, it’s about understanding and appreciating your individual performance.
+Enjoy your ride and let the Normalized Cycling League enhance your cycling experience. See you on the road!
 
