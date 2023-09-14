@@ -1,5 +1,13 @@
 ## FAQ: Understanding Normalized Data in Biking Activities
 
+### What is the NCL Value?
+
+The NCL Value is a single value that encompasses multiple indicators of biking activities, providing a comprehensive measure of overall effort. It takes into account factors such as distance, elevation gained, time, pace, and speed, assigning weights to each indicator based on their relative importance.
+
+Calculating the NCL Value involves assigning weights to each indicator and combining them using a weighted average approach. This results in a single value that represents the overall effort of the biking activity.
+
+The NCL Value allows for easy comparison and interpretation of biking performances, making it a useful tool for evaluating and tracking progress. It provides a standardized measure that incorporates multiple factors, giving a more complete understanding of the effort involved in biking activities.
+
 ### What is nDistance?
 
 nDistance is a normalized measure of the overall effort required for a biking activity. It takes into account both the distance of the activity and the total elevation gained, giving more weight to the distance.
