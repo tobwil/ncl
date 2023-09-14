@@ -1,5 +1,3 @@
-## Rules
-
 ### (1) Keep it real 
 Only genuine and accurate data is allowed. Suspicious activity may result in the request for proof or verification via Strava on our Reddit channel. Trust in the power of honest cycling!
 
