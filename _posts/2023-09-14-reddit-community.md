@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Reddit Community
-subtitle: a place to give feedback and particiapate
+subtitle: A place to give feedback and participate
 cover-img: /assets/img/path5.png
 thumbnail-img: /assets/img/Reddit.png
 share-img: /assets/img/path5.png
 tags: [info]
 ---
-# Normaliced Cycling Leage Community @ Reddit
+# Normalized Cycling Leage Community @ Reddit
 I've just created a new reddit community where I hope to receive feedback, ideas, questions and more! **[r/normalizedcycling](https://www.reddit.com/r/normalizedcycling/)**
 
 I know that this method/tooling is not the perfect solution, but in my imaginaton it comes pretty close to what could be a community driven, online cycling league where everyone can particpate, whether it's indoor, outdoo, e-bike, biobike or whatever.
