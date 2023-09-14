@@ -21,7 +21,7 @@ Next initatives could be:
 * virtual rewards or incentives for consistently participating and improving your performance
 * community events or meetups for participants to connect and ride together in person
 * a point system based on activity level and performance, with the opportunity to earn rewards or prizes
-* intrduce teams and team competitions where participants can join forces and compete against other teams
+* introduce teams and team competitions where participants can join forces and compete against other teams
   
 These are just a few ideas to add gamification elements and make the Normalized Cycling League even more engaging and exciting for participants. 
 Remember, this is a community-driven initiative, so feel free to share your thoughts, ideas and suggestions!
