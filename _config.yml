@@ -21,8 +21,9 @@ author: Tobias Wilhelm
 
 navbar-links:
   League Standings: "standings"
-  About NLC: "aboutme"
   Submit Activity: "submit"
+  Rules: "rules"
+  About NLC: "aboutme"
   FAQ: "faq"
 
 ################
@@ -57,7 +58,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
-#  reddit: yourname
+  reddit: tobias_digital
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
