@@ -25,3 +25,5 @@ Next initatives could be:
   
 These are just a few ideas to add gamification elements and make the Normalized Cycling League even more engaging and exciting for participants. 
 Remember, this is a community-driven initiative, so feel free to share your thoughts, ideas and suggestions!
+
+<blockquote class="reddit-embed-bq" data-embed-height="501">Posts from the <a href="https://www.reddit.com/r/normalizedcycling">normalizedcycling</a><br> community on Reddit</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
