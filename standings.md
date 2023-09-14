@@ -1,6 +1,6 @@
 ---
 layout: page
 title: NCL Standings & Statistics
-subtitle: All the details...
+subtitle: Who leads the league?
 ---
-<iframe width="960" height="540" src="https://lookerstudio.google.com/embed/reporting/8dd25dc6-cc22-4076-9655-ebbc0e12529a/page/JX2kB" frameborder="0" style="border:0" allowfullscreen></iframe>
+<p align="center"><iframe width="1024" height="576" src="https://lookerstudio.google.com/embed/reporting/8dd25dc6-cc22-4076-9655-ebbc0e12529a/page/JX2kB" frameborder="0" style="border:0" allowfullscreen></iframe></p>
